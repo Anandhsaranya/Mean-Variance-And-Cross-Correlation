@@ -76,9 +76,16 @@ plot2d3('gnn',r);
 
 ## Calculation:
 
-i) Mean of X = 30.4 ;Mean of Y = 30.4
+![WhatsApp Image 2025-11-22 at 20 12 21_1f98bbe1](https://github.com/user-attachments/assets/e6e8572b-d958-42f4-a155-9563daf73889)
+![WhatsApp Image 2025-11-22 at 20 12 51_6c15b144](https://github.com/user-attachments/assets/19ce8011-7b28-48d7-ae2b-6dcda88054f5)
+![WhatsApp Image 2025-11-22 at 20 13 11_2e15dc6a](https://github.com/user-attachments/assets/c4d0e3a8-c2d6-41fe-a389-c9ddcb75de10)
 
-ii) Variance of X =-877.07; Variance of Y =-877.07
+
+
+
+i) Mean of X = 112.95 ;Mean of Y = 112.97
+
+ii) Variance of X =-12,271.7; Variance of Y =-12,291.6
 
 Cross Correlation: Type in the reference sequence = [1 2 3 4 5 6 7 8]
 
